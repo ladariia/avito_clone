@@ -24,11 +24,11 @@
 git clone https://github.com/ladariia/avito_clone.git
 cd avito_clone
 ```
-### **2. Устанавливаем зависимости
+### **2. Устанавливаем зависимости**
 ```sh
 npm install
 ```
-### **3. Запускаем проект
+### **3. Запускаем проект**
 ```sh
 npm run dev
 ```
